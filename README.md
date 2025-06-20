@@ -85,7 +85,7 @@ Basic Calculations Implemented:
 
 Drillihg Fluids Calculations Implemented:
 1. Increase Mud Weight using Barite
-2. Increase Mud Weight using CaCO₃
+2. Increase Mud Weight using Calcium Carbonate
 3. Increase Mud Weight using Hematite
 4. Starting Volume for a Target Final Volume of Desired Mud Weight Using Barite
 5. Starting Volume for a Target Final Volume of Desired Mud Weight Using Calcium Carbonate
