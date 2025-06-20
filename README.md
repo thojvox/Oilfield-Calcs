@@ -82,3 +82,25 @@ Basic Calculations Implemented:
 34. Spotting Pills
 35. Pressure to Break Mud's Gel Strength Inside Drill String
 36. Pressure to Break Mud's Gel Strength Inside the Annulus
+
+Drillihg Fluids Calculations Implemented:
+1. Increase Mud Weight using Barite
+2. Increase Mud Weight using CaCO₃
+3. Increase Mud Weight using Hematite
+4. Starting Volume for a Target Final Volume of Desired Mud Weight Using Barite
+5. Starting Volume for a Target Final Volume of Desired Mud Weight Using Calcium Carbonate
+6. Starting Volume for a Target Final Volume of Desired Mud Weight Using Hematite
+7. Volume of Water Needed to Reduce Mud Weight
+8. Volume of Diesel Needed to Reduce Mud Weight
+9. Volume of Muds for Target Mud Weight and Volume
+10. Mix Muds
+11. Oil-based (Oil plus Water) Mud Weight
+12. Starting Volume of Oil-based Mud for Target Mud Weight and Volume
+13. Percent By Volume Oil/Water from Retort Data
+14. Change Oil/Water Ratio
+15. Solids Analysis
+16. Solids Fractions
+17. Dilution of Mud System
+18. Dilution Water/Mud Required to Maintain Circulating Volume
+19. Evaluation of Hydrocyclone
+20. Evaluation of Hydrocyclone
